@@ -1,7 +1,9 @@
 import time
 from github import Github
 
-g = Github('')
+token = ''
+
+g = Github(token)
 
 while True:
     try:

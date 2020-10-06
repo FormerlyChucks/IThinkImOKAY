@@ -2,10 +2,10 @@ import time
 from github import Github
 
 token = ''
-repo_file = ''
 file1 = ''
 message = ''
 content = ''
+repo_file = ''
 g = Github(token)
 
 while True:

@@ -10,3 +10,5 @@ This is really just me being bored and having nothing else to do. Maybe I can ge
 - [ ] 1,000,000
 
 - On October 10, 2020, this repo hit 100,000 commits
+
+![](https://i.imgur.com/rJKGTXr.png)

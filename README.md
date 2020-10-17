@@ -1,5 +1,4 @@
-# x
-x
+# Mr-Steal-Your-Script
 
 This is really just me being bored and having nothing else to do. Maybe I can get to 1,000,000 commits?
 

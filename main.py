@@ -7,7 +7,7 @@ while True: #while loop, keeps code running
         repo = g.get_repo('<user/repo>') #github repo
         file = repo.get_contents('<file_to_update>', ref="main") #file to update, branch
         repo.update_file('<file_to_update>', '<commit_message>', '<content_to_write_to_file>', file.sha) #update file, commit message, write some text
-        time.sleep(1) #sleep for 1 second
+        time.sleep(3) #sleep for 3 seconds
     except Exception: #if any errors, what do?
         print(traceback.format_exc()) #print full traceback
         time.sleep(600) #sleep for 10 minutes

@@ -4,11 +4,6 @@
 - If you need to ask me anything, make an issue!
 - If you'd like to help me, check out the [```pclt-dev/pclt```](https://github.com/pclt-dev/pclt) repo.
 
-# GitHub Language Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ithinkimokay&theme=dark&exclude_repo=website)
-
-# GitHub User Stats:
-![](https://github-readme-stats.vercel.app/api?username=ithinkimokay&show_icons=true&theme=dark)
 
 # GitHub COntribution Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IThinkImOKAY&theme=dark)
@@ -16,6 +11,6 @@
 
 ## Is this working?
 
-Solarized dark             |  Solarized Ocean
+Language Stats             |  User Stats
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ithinkimokay&theme=dark&exclude_repo=website)  |  ![](https://github-readme-stats.vercel.app/api?username=ithinkimokay&show_icons=true&theme=dark)

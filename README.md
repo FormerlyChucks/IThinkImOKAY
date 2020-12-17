@@ -1,15 +1,10 @@
 ### Hi there, I'm dio. I like Python, dogs and the internet.
 
 - I like contributing to repositories, if you need help, let me know.
-- If you need to ask me anything, make an issue!
 - If you'd like to help me, check out the [```pclt-dev/pclt```](https://github.com/pclt-dev/pclt) repo.
 
 
-# GitHub COntribution Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=IThinkImOKAY&theme=dark)
-
-[comment]: <> (This is a comment, it will not be included)
-    <>
+[COntrib Stats, Not Working?]: <> (https://github-readme-streak-stats.herokuapp.com/?user=IThinkImOKAY&theme=dark)
 
 ## Is this working?
 

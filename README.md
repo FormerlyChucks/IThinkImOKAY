@@ -13,4 +13,4 @@
 
 Language Stats             |  User Stats
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ithinkimokay&theme=dark&exclude_repo=website)  |  ![](https://github-readme-stats.vercel.app/api?username=ithinkimokay&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ithinkimokay&theme=dark&exclude_repo=website&layout=compact)  |  ![](https://github-readme-stats.vercel.app/api?username=ithinkimokay&show_icons=true&theme=dark)

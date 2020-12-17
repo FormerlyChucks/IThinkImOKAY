@@ -1,4 +1,4 @@
-### Hi there, I'm dio. I like Python, dogs and the cereal.
+### Hi there, I'm dio. I like Python, dogs and cereal.
 
 - I like contributing to repositories, if you need help let me know.
 - If you'd like to help me, check out the [```pclt-dev/pclt```](https://github.com/pclt-dev/pclt) repository.

@@ -12,3 +12,10 @@
 
 # GitHub COntribution Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IThinkImOKAY&theme=dark)
+
+
+## Is this working?
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)

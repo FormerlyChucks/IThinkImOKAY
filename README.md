@@ -1,7 +1,7 @@
-### Hi there, I'm dio. I like Python, dogs and the internet.
+### Hi there, I'm dio. I like Python, dogs and the cereal.
 
-- I like contributing to repositories, if you need help, let me know.
-- If you'd like to help me, check out the [```pclt-dev/pclt```](https://github.com/pclt-dev/pclt) repo.
+- I like contributing to repositories, if you need help let me know.
+- If you'd like to help me, check out the [```pclt-dev/pclt```](https://github.com/pclt-dev/pclt) repository.
 
 
 [COntrib Stats, Not Working?]: <> (https://github-readme-streak-stats.herokuapp.com/?user=IThinkImOKAY&theme=dark)

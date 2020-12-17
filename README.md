@@ -8,6 +8,8 @@
 # GitHub COntribution Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IThinkImOKAY&theme=dark)
 
+[comment]: <> (This is a comment, it will not be included)
+    <>
 
 ## Is this working?
 

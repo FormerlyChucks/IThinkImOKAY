@@ -8,4 +8,4 @@
 
 Language Stats             |  User Stats
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ithinkimokay&langs_count=10&layout=compact&theme=dark&hide_title=true&exclude_repo=website)  |  ![](https://github-readme-stats.vercel.app/api?username=ithinkimokay&count_private=true&show_icons=true&theme=dark&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ithinkimokay&langs_count=10&layout=compact&theme=dark&hide_title=true&exclude_repo=website,bwfForum)  |  ![](https://github-readme-stats.vercel.app/api?username=ithinkimokay&count_private=true&show_icons=true&theme=dark&hide_title=true)

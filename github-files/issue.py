@@ -5,12 +5,10 @@ repo = g.get_repo("")
 
 reddit = praw.Reddit(client_id="", client_secret="", user_agent="")
 sub_list = ""
-s_body = """
-Title: {}
+s_body = """Title: {}
 Author: {}
 Subreddit: {}
-Shortlink: {}
-"""
+Shortlink: {}"""
 
 
 while True:

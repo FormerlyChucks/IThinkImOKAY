@@ -114,3 +114,5 @@ fi
 
 alias fuck='clear'
 alias py='python3'
+alias megafuck='cd && clear'
+alias siege='python3 siege.py'

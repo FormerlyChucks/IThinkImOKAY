@@ -61,3 +61,5 @@
 [30](https://history.stackexchange.com/questions/63969/was-a-bomb-or-shell-ever-dropped-directly-down-the-funnel-of-a-warship)
 
 [31](https://www.reddit.com/r/Drama/comments/8r7qfj/_/eb444kx/)
+
+[32](https://news.ycombinator.com/item?id=27448631)

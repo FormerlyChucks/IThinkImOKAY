@@ -1,0 +1,61 @@
+/*NOTE: REPLACE LINE 30 AS APPROPRIATE*/
+
+/*Hide things we don't need*/
+.nub, .sidebox.create, .titlebox .bottom, .bottom .age, .titlebox form.toggle, .leavemoderator, .redesign-beta-optin, .account-activity-box, div.titlebox span.word, .users-online .word, .titlebox .tagline {
+    display:none!important
+}
+/*Organize mod tools*/
+.sidecontentbox.collapsible .title {
+    text-align: center;
+    cursor: pointer;
+    border-top: 1px solid gray;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+ul.flat-vert {
+    text-align: left;
+    font-size: 16px;
+    font-family: "Arial";
+}
+.icon-menu li {
+    margin: 5px 0;
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid gray;
+}
+/*Display image in sidebar*/
+.side .usertext-body{
+    padding-top: 150px;
+    background: url(%%image%%) no-repeat;
+    background-position: top center;
+}
+/*Change readers value*/
+div.titlebox span.number:after {
+    content: " OC Memers";
+}
+/*Change here now value*/
+.users-online .word, .users-online .number:after {
+    content: " Online Now" !important;
+}
+/*Give credit to God*/
+.footer-parent:before {
+    content:"CSS Theme By /u/diogenesjunior";
+    display:block;color:#595959;
+}
+/*Highlight empty comments*/
+.buttons .comments.empty {
+    color: red;
+}
+/*Change submit buttons*/
+.side .submit-link a, .side .submit-text a {
+    background-color: black;
+    color: white;
+}
+/*Theme*/
+body, .side, #header, .sr-bar .separator, #header-bottom-right, .icon-menu a, #header .tabmenu li a, #header .tabmenu li.selected a, #searchexpando {
+    background-color : #ECECEC;
+}
+#header, #sr-header-area {
+    border-bottom-color : #ECECEC;
+}

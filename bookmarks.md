@@ -99,3 +99,7 @@
 [49](https://www.netmeister.org/blog/email.html)
 
 [50](https://nav.al/rich)
+
+[51](https://github.com/carpedm20/emoji/blob/master/emoji/unicode_codes/en.py)
+
+[52](https://bakkenbaeck.github.io/a-random-walk-through-git/)
